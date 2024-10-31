@@ -1,3 +1,3 @@
-Yeenfishin adds a playable hyena species [Includes a custom head, tail, and spotted hyena markings]
+[YeenBFishin](https://thunderstore.io/c/webfishing/p/DarnHyena/YeenBFishin/) adds a playable hyena species [Includes a custom head, tail, and spotted hyena markings]
 
-[NautralTones](https://github.com/DarnHyena/Yeenfishing-Mods/releases/tag/NaturalTone) adds seven new brown and tan color options
+[NautralTones](https://thunderstore.io/c/webfishing/p/DarnHyena/NaturalTones/) adds seven new brown and tan color options
